@@ -1,0 +1,68 @@
+.omlet {
+    margin-left: 500px;
+    font-size: 50px;
+
+}
+
+.about-us {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+}
+  
+.about-us h2 {
+    font-size: 44px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+  
+.about-us img {
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 20px;
+}
+  
+.about-us p {
+    font-size: 26px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+  
+.about-us ul {
+    list-style: disc;
+    margin: 0;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+  
+.about-us ul li {
+    font-size: 24px;
+    line-height: 1.5;
+}
+  
+.about-us .quote {
+    font-style: italic;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+  
+.about-us .cta a {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 28px;
+    background-color: #FFC107;
+    color: #fff;
+    border-radius: 50px;
+    text-decoration: none;
+    margin-top: 20px;
+    transition: background-color 0.2s ease-in-out;
+}
+  
+.about-us .cta a:hover {
+    background-color: #F39C12;
+}
+
+footer {
+    margin-left: 125px;
+}
